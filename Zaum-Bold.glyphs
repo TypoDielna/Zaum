@@ -6312,7 +6312,7 @@ widthClass = "Extra Expanded";
 kerning = {
 "28C953CF-4891-4F33-B755-C1AFD5E1A875" = {
 "@MMK_L_A" = {
-"@MMK_R_V" = -80;
+"@MMK_R_V" = -90;
 };
 "@MMK_L_F" = {
 "@MMK_R_o" = -30;
@@ -6322,7 +6322,7 @@ kerning = {
 "@MMK_R_o" = -70;
 };
 "@MMK_L_L" = {
-"@MMK_R_T" = -100;
+"@MMK_R_T" = -120;
 };
 "@MMK_L_M" = {
 "@MMK_R_W" = -100;
@@ -6334,8 +6334,9 @@ kerning = {
 "@MMK_R_w" = -70;
 };
 "@MMK_L_V" = {
-"@MMK_R_A" = -80;
+"@MMK_R_A" = -90;
 "@MMK_R_o" = -50;
+"@MMK_R_H" = 5;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -70;
