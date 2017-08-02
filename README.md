@@ -1,2 +1,2 @@
 # Zaum
-Písmo Zaum
+Git pre písmo Zaum
